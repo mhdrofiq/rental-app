@@ -2,6 +2,8 @@
 
 This project was created using the mern stack instead of laravel and php since building with laravel would require more than the alloted time to relearn the framework and implement it correctly. The last time I used it to build a web app was in 2022 as seen in this [link to repo](https://github.com/mhdrofiq/healthapp) directory.
 
+**Documents related to the technical test can be found in the 'additional_documents' folder.**
+
 This project can be run in the local environment. The ports used are found in the .env file and in the axios.js file inside the api folder of this repository. Before launching the app on a browser, clone this repo, and run:"
 
 ### `npm install`
